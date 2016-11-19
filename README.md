@@ -1,2 +1,2 @@
 # capstone-alpha
-//sir, wa pa mi ka-JAR. Lisod kaayo i-JAR with slick2D. We're still figuring things out.
+JAR FILE LINK: https://drive.google.com/open?id=0B8rpt3onLeBxRl9KUDBOcnpiMjg
